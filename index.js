@@ -11,6 +11,8 @@ function destructivelyUpdateObjectWithKeyAndValue(o, k, v){
   return o
 }
 
+function 
+
 function destructivelyDeleteFromObjectByKey(o, k){
   delete (o[k])
   return o
